@@ -5,6 +5,11 @@ Rubik Cube solving library and command line utility
 
 How to install
 --------------
+``$ pip install virtualenv``
+
+``$ virtualenv venv``
+
+``$ source venv/bin/activate``
 
 ``$ python setup.py build``
 
