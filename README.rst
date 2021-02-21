@@ -14,8 +14,10 @@ How to use
 ----------
 
 As a command
+``$ rubik_solver -i wowgybwyogygybyoggrowbrgywrborwggybrbwororbwborgowryby -s Beginner``
 
-.. image:: docs/_static/cmd_tty.gif
+Help
+``$ rubik_solver -h``
 
 
 As a module
